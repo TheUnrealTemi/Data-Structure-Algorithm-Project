@@ -1,4 +1,4 @@
-# WGUPS Route Optimization and Delivery Simulation
+# Route Optimization and Delivery Simulation
 
 ## Overview
 
